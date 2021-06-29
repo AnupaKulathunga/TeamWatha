@@ -1,0 +1,276 @@
+,Country Name,Indicator Name,Year,Value
+0,Beijing,NO2 Emission Beijing,43227,194.21602
+1,Beijing,NO2 Emission Beijing,43241,143.73322
+2,Beijing,NO2 Emission Beijing,43255,133.34633
+3,Beijing,NO2 Emission Beijing,43269,130.20685
+4,Beijing,NO2 Emission Beijing,43283,151.9191
+5,Beijing,NO2 Emission Beijing,43297,100.88052
+6,Beijing,NO2 Emission Beijing,43311,132.97638
+7,Beijing,NO2 Emission Beijing,43325,125.15008
+8,Beijing,NO2 Emission Beijing,43339,140.02211
+9,Beijing,NO2 Emission Beijing,43353,163.62474
+10,Beijing,NO2 Emission Beijing,43367,147.54341
+11,Beijing,NO2 Emission Beijing,43381,227.5215
+12,Beijing,NO2 Emission Beijing,43395,249.27321
+13,Beijing,NO2 Emission Beijing,43409,315.11633
+14,Beijing,NO2 Emission Beijing,43423,427.52838
+15,Beijing,NO2 Emission Beijing,43437,274.98447
+16,Beijing,NO2 Emission Beijing,43451,244.09564
+17,Beijing,NO2 Emission Beijing,43465,335.6872
+18,Beijing,NO2 Emission Beijing,43479,303.92358
+19,Beijing,NO2 Emission Beijing,43493,193.37407
+20,Beijing,NO2 Emission Beijing,43507,183.15262
+21,Beijing,NO2 Emission Beijing,43521,234.0039
+22,Beijing,NO2 Emission Beijing,43535,205.82376
+23,Beijing,NO2 Emission Beijing,43549,263.34204
+24,Beijing,NO2 Emission Beijing,43563,205.36371
+25,Beijing,NO2 Emission Beijing,43577,122.452034
+26,Beijing,NO2 Emission Beijing,43591,149.01881
+27,Beijing,NO2 Emission Beijing,43605,139.87617
+28,Beijing,NO2 Emission Beijing,43619,115.33598
+29,Beijing,NO2 Emission Beijing,43633,122.14232
+30,Beijing,NO2 Emission Beijing,43647,108.63228
+31,Beijing,NO2 Emission Beijing,43661,97.83054
+32,Beijing,NO2 Emission Beijing,43675,115.58258
+33,Beijing,NO2 Emission Beijing,43689,133.94655
+34,Beijing,NO2 Emission Beijing,43703,106.762314
+35,Beijing,NO2 Emission Beijing,43717,181.78482
+36,Beijing,NO2 Emission Beijing,43731,102.61245
+37,Beijing,NO2 Emission Beijing,43745,214.8165
+38,Beijing,NO2 Emission Beijing,43759,276.91577
+39,Beijing,NO2 Emission Beijing,43773,315.00677
+40,Beijing,NO2 Emission Beijing,43787,329.99915
+41,Beijing,NO2 Emission Beijing,43801,269.75717
+42,Beijing,NO2 Emission Beijing,43815,356.8492
+43,Beijing,NO2 Emission Beijing,43829,246.73047
+44,Beijing,NO2 Emission Beijing,43843,284.26385
+45,Beijing,NO2 Emission Beijing,43857,128.8456
+46,Beijing,NO2 Emission Beijing,43871,135.21263
+47,Beijing,NO2 Emission Beijing,43885,106.93086
+48,Beijing,NO2 Emission Beijing,43899,134.7086
+49,Beijing,NO2 Emission Beijing,43913,151.10918
+50,Beijing,NO2 Emission Beijing,43927,172.74985
+51,Beijing,NO2 Emission Beijing,43941,110.063614
+52,Beijing,NO2 Emission Beijing,43955,113.338646
+53,Beijing,NO2 Emission Beijing,43969,97.59989
+54,Beijing,NO2 Emission Beijing,43983,127.46714
+55,Beijing,NO2 Emission Beijing,43997,102.15727
+56,Beijing,NO2 Emission Beijing,44011,75.144035
+57,Beijing,NO2 Emission Beijing,44025,75.16777
+58,Beijing,NO2 Emission Beijing,44039,91.363525
+59,Beijing,NO2 Emission Beijing,44053,84.70308
+60,Beijing,NO2 Emission Beijing,44067,98.86076
+61,Beijing,NO2 Emission Beijing,44081,94.63253
+62,Beijing,NO2 Emission Beijing,44095,121.43706
+63,Beijing,NO2 Emission Beijing,44109,250.11293
+64,Beijing,NO2 Emission Beijing,44123,222.24084
+65,Beijing,NO2 Emission Beijing,44137,303.5418
+66,Beijing,NO2 Emission Beijing,44151,204.21289
+67,Beijing,NO2 Emission Beijing,44165,426.01047
+68,Beijing,NO2 Emission Beijing,44179,496.80075
+69,Beijing,NO2 Emission Beijing,44193,202.87762
+70,Beijing,NO2 Emission Beijing,44207,383.35593
+71,Beijing,NO2 Emission Beijing,44221,221.97365
+72,Beijing,NO2 Emission Beijing,44235,200.47064
+73,Beijing,NO2 Emission Beijing,44249,279.9729
+74,Beijing,NO2 Emission Beijing,44263,183.36963
+75,Beijing,NO2 Emission Beijing,44277,192.92244
+76,Beijing,NO2 Emission Beijing,44291,216.58022
+77,Beijing,NO2 Emission Beijing,44305,117.94691
+78,Beijing,NO2 Emission Beijing,44319,
+79,Beijing,NO2 Emission Beijing,44333,
+80,Beijing,NO2 Emission Beijing,44347,
+81,Dhaka,CO2 Emission Dhaka,42461,-2.8
+82,Dhaka,CO2 Emission Dhaka,42736,5.94
+83,Dhaka,CO2 Emission Dhaka,42767,1.54
+84,Dhaka,CO2 Emission Dhaka,42795,3.14
+85,Dhaka,CO2 Emission Dhaka,42826,4.87
+86,Dhaka,CO2 Emission Dhaka,43101,5.41
+87,Dhaka,CO2 Emission Dhaka,43132,3.27
+88,Dhaka,CO2 Emission Dhaka,43160,3.97
+89,Dhaka,CO2 Emission Dhaka,43191,-0.17
+90,Dhaka,CO2 Emission Dhaka,43466,8.36
+91,Dhaka,CO2 Emission Dhaka,43497,5.11
+92,Dhaka,CO2 Emission Dhaka,43525,3.45
+93,Dhaka,CO2 Emission Dhaka,43556,0.61
+94,Dhaka,CO2 Emission Dhaka,43831,7.12
+95,Dhaka,CO2 Emission Dhaka,43862,5.22
+96,Dhaka,CO2 Emission Dhaka,43891,2.7
+97,Dhaka,CO2 Emission Dhaka,43922,0.36
+98,New York,NO2 Emission New York,43227,155.08643
+99,New York,NO2 Emission New York,43241,110.78
+100,New York,NO2 Emission New York,43255,95.689964
+101,New York,NO2 Emission New York,43269,89.16576
+102,New York,NO2 Emission New York,43283,98.917145
+103,New York,NO2 Emission New York,43297,92.473625
+104,New York,NO2 Emission New York,43311,95.939095
+105,New York,NO2 Emission New York,43325,90.41206
+106,New York,NO2 Emission New York,43339,95.120415
+107,New York,NO2 Emission New York,43353,117.58409
+108,New York,NO2 Emission New York,43367,91.76366
+109,New York,NO2 Emission New York,43381,74.82764
+110,New York,NO2 Emission New York,43395,112.835045
+111,New York,NO2 Emission New York,43409,102.5562
+112,New York,NO2 Emission New York,43423,125.92708
+113,New York,NO2 Emission New York,43437,153.85466
+114,New York,NO2 Emission New York,43451,140.09277
+115,New York,NO2 Emission New York,43465,110.88155
+116,New York,NO2 Emission New York,43479,131.37505
+117,New York,NO2 Emission New York,43493,170.0078
+118,New York,NO2 Emission New York,43507,122.01096
+119,New York,NO2 Emission New York,43521,136.31537
+120,New York,NO2 Emission New York,43535,150.12946
+121,New York,NO2 Emission New York,43549,115.13417
+122,New York,NO2 Emission New York,43563,96.994446
+123,New York,NO2 Emission New York,43577,205.52736
+124,New York,NO2 Emission New York,43591,91.14959
+125,New York,NO2 Emission New York,43605,74.9135
+126,New York,NO2 Emission New York,43619,70.843765
+127,New York,NO2 Emission New York,43633,90.02533
+128,New York,NO2 Emission New York,43647,66.31936
+129,New York,NO2 Emission New York,43661,79.614784
+130,New York,NO2 Emission New York,43675,69.64364
+131,New York,NO2 Emission New York,43689,73.7786
+132,New York,NO2 Emission New York,43703,82.13615
+133,New York,NO2 Emission New York,43717,101.84418
+134,New York,NO2 Emission New York,43731,111.34419
+135,New York,NO2 Emission New York,43745,126.71045
+136,New York,NO2 Emission New York,43759,138.81058
+137,New York,NO2 Emission New York,43773,161.38223
+138,New York,NO2 Emission New York,43787,173.5952
+139,New York,NO2 Emission New York,43801,146.64816
+140,New York,NO2 Emission New York,43815,149.11421
+141,New York,NO2 Emission New York,43829,90.12517
+142,New York,NO2 Emission New York,43843,174.16824
+143,New York,NO2 Emission New York,43857,130.57649
+144,New York,NO2 Emission New York,43871,129.02332
+145,New York,NO2 Emission New York,43885,117.4527
+146,New York,NO2 Emission New York,43899,113.08158
+147,New York,NO2 Emission New York,43913,80.25808
+148,New York,NO2 Emission New York,43927,98.8563
+149,New York,NO2 Emission New York,43941,66.15653
+150,New York,NO2 Emission New York,43955,69.77481
+151,New York,NO2 Emission New York,43969,55.44263
+152,New York,NO2 Emission New York,43983,69.012146
+153,New York,NO2 Emission New York,43997,71.08168
+154,New York,NO2 Emission New York,44011,57.376575
+155,New York,NO2 Emission New York,44025,64.24045
+156,New York,NO2 Emission New York,44039,67.31582
+157,New York,NO2 Emission New York,44053,79.35532
+158,New York,NO2 Emission New York,44067,66.21645
+159,New York,NO2 Emission New York,44081,65.59263
+160,New York,NO2 Emission New York,44095,63.022663
+161,New York,NO2 Emission New York,44109,100.43977
+162,New York,NO2 Emission New York,44123,158.51767
+163,New York,NO2 Emission New York,44137,144.69109
+164,New York,NO2 Emission New York,44151,107.5656
+165,New York,NO2 Emission New York,44165,149.7262
+166,New York,NO2 Emission New York,44179,167.86739
+167,New York,NO2 Emission New York,44193,106.491196
+168,New York,NO2 Emission New York,44207,153.63382
+169,New York,NO2 Emission New York,44221,125.844215
+170,New York,NO2 Emission New York,44235,242.35147
+171,New York,NO2 Emission New York,44249,144.9881
+172,New York,NO2 Emission New York,44263,142.3921
+173,New York,NO2 Emission New York,44277,159.80846
+174,New York,NO2 Emission New York,44291,139.04604
+175,New York,NO2 Emission New York,44305,107.132385
+176,New York,NO2 Emission New York,44319,
+177,New York,NO2 Emission New York,44333,
+178,New York,NO2 Emission New York,44347,
+179,New York,CO2 Emission New York,42461,5.05
+180,New York,CO2 Emission New York,42736,5.6
+181,New York,CO2 Emission New York,42767,6.16
+182,New York,CO2 Emission New York,42795,8.79
+183,New York,CO2 Emission New York,42826,3.18
+184,New York,CO2 Emission New York,43101,6.25
+185,New York,CO2 Emission New York,43160,4.84
+186,New York,CO2 Emission New York,43191,5.91
+187,New York,CO2 Emission New York,43466,6.3
+188,New York,CO2 Emission New York,43497,4.78
+189,New York,CO2 Emission New York,43525,-7.64
+190,New York,CO2 Emission New York,43556,3.85
+191,New York,CO2 Emission New York,43831,5.5
+192,New York,CO2 Emission New York,43862,4.5
+193,New York,CO2 Emission New York,43891,4.44
+194,San Francisco,NO2 Emission San Francisco,43227,32.618725
+195,San Francisco,NO2 Emission San Francisco,43241,36.145203
+196,San Francisco,NO2 Emission San Francisco,43255,30.362528
+197,San Francisco,NO2 Emission San Francisco,43269,36.565193
+198,San Francisco,NO2 Emission San Francisco,43283,36.84264
+199,San Francisco,NO2 Emission San Francisco,43297,34.049103
+200,San Francisco,NO2 Emission San Francisco,43311,37.2144
+201,San Francisco,NO2 Emission San Francisco,43325,31.457085
+202,San Francisco,NO2 Emission San Francisco,43339,39.89094
+203,San Francisco,NO2 Emission San Francisco,43353,45.759655
+204,San Francisco,NO2 Emission San Francisco,43367,50.16827
+205,San Francisco,NO2 Emission San Francisco,43381,70.81888
+206,San Francisco,NO2 Emission San Francisco,43395,60.81961
+207,San Francisco,NO2 Emission San Francisco,43409,83.84668
+208,San Francisco,NO2 Emission San Francisco,43423,51.361553
+209,San Francisco,NO2 Emission San Francisco,43437,90.001656
+210,San Francisco,NO2 Emission San Francisco,43451,53.112923
+211,San Francisco,NO2 Emission San Francisco,43465,76.77756
+212,San Francisco,NO2 Emission San Francisco,43479,78.11091
+213,San Francisco,NO2 Emission San Francisco,43493,47.33966
+214,San Francisco,NO2 Emission San Francisco,43507,38.79529
+215,San Francisco,NO2 Emission San Francisco,43521,35.208355
+216,San Francisco,NO2 Emission San Francisco,43535,50.14265
+217,San Francisco,NO2 Emission San Francisco,43549,41.491993
+218,San Francisco,NO2 Emission San Francisco,43563,31.70264
+219,San Francisco,NO2 Emission San Francisco,43577,41.593964
+220,San Francisco,NO2 Emission San Francisco,43591,30.200832
+221,San Francisco,NO2 Emission San Francisco,43605,30.274324
+222,San Francisco,NO2 Emission San Francisco,43619,37.944206
+223,San Francisco,NO2 Emission San Francisco,43633,33.40827
+224,San Francisco,NO2 Emission San Francisco,43647,26.355352
+225,San Francisco,NO2 Emission San Francisco,43661,32.124004
+226,San Francisco,NO2 Emission San Francisco,43675,30.535654
+227,San Francisco,NO2 Emission San Francisco,43689,39.815662
+228,San Francisco,NO2 Emission San Francisco,43703,31.397598
+229,San Francisco,NO2 Emission San Francisco,43717,43.071564
+230,San Francisco,NO2 Emission San Francisco,43731,44.701557
+231,San Francisco,NO2 Emission San Francisco,43745,57.001274
+232,San Francisco,NO2 Emission San Francisco,43759,70.36109
+233,San Francisco,NO2 Emission San Francisco,43773,79.54128
+234,San Francisco,NO2 Emission San Francisco,43787,66.21345
+235,San Francisco,NO2 Emission San Francisco,43801,32.75438
+236,San Francisco,NO2 Emission San Francisco,43815,55.222206
+237,San Francisco,NO2 Emission San Francisco,43829,68.876076
+238,San Francisco,NO2 Emission San Francisco,43843,66.14366
+239,San Francisco,NO2 Emission San Francisco,43857,60.507366
+240,San Francisco,NO2 Emission San Francisco,43871,76.55896
+241,San Francisco,NO2 Emission San Francisco,43885,57.744663
+242,San Francisco,NO2 Emission San Francisco,43899,58.78777
+243,San Francisco,NO2 Emission San Francisco,43913,23.585915
+244,San Francisco,NO2 Emission San Francisco,43927,33.755424
+245,San Francisco,NO2 Emission San Francisco,43941,20.493357
+246,San Francisco,NO2 Emission San Francisco,43955,30.737293
+247,San Francisco,NO2 Emission San Francisco,43969,27.950106
+248,San Francisco,NO2 Emission San Francisco,43983,25.238802
+249,San Francisco,NO2 Emission San Francisco,43997,26.627913
+250,San Francisco,NO2 Emission San Francisco,44011,25.847183
+251,San Francisco,NO2 Emission San Francisco,44025,26.062428
+252,San Francisco,NO2 Emission San Francisco,44039,24.731882
+253,San Francisco,NO2 Emission San Francisco,44053,32.866962
+254,San Francisco,NO2 Emission San Francisco,44067,31.458452
+255,San Francisco,NO2 Emission San Francisco,44081,35.236965
+256,San Francisco,NO2 Emission San Francisco,44095,33.166687
+257,San Francisco,NO2 Emission San Francisco,44109,41.49873
+258,San Francisco,NO2 Emission San Francisco,44123,64.08212
+259,San Francisco,NO2 Emission San Francisco,44137,60.093685
+260,San Francisco,NO2 Emission San Francisco,44151,63.426792
+261,San Francisco,NO2 Emission San Francisco,44165,90.03469
+262,San Francisco,NO2 Emission San Francisco,44179,65.147964
+263,San Francisco,NO2 Emission San Francisco,44193,73.20321
+264,San Francisco,NO2 Emission San Francisco,44207,73.89181
+265,San Francisco,NO2 Emission San Francisco,44221,55.817116
+266,San Francisco,NO2 Emission San Francisco,44235,41.880634
+267,San Francisco,NO2 Emission San Francisco,44249,46.15337
+268,San Francisco,NO2 Emission San Francisco,44263,30.644156
+269,San Francisco,NO2 Emission San Francisco,44277,47.90935
+270,San Francisco,NO2 Emission San Francisco,44291,34.274918
+271,San Francisco,NO2 Emission San Francisco,44305,31.1378
+272,San Francisco,NO2 Emission San Francisco,44319,
+273,San Francisco,NO2 Emission San Francisco,44333,
+274,San Francisco,NO2 Emission San Francisco,44347,
