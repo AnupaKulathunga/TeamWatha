@@ -10,6 +10,8 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 df = pd.read_csv('https://plotly.github.io/datasets/country_indicators.csv')
 
+
+
 available_indicators = df['Indicator Name'].unique()
 
 app.layout = html.Div([
